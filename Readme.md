@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ayaan | Software Developer | | MySQL | MongoDB | Express | React | Node.js</p>
+<p align="left">Mohd Ayaan Ansari | Software Developer | | MySQL | MongoDB | Express | React | Node.js</p>
 
 ###
 
