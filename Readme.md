@@ -77,7 +77,9 @@
 
 ###
 
-<p align="left">I’m Ayaan, a dedicated Software Developer 💻🚀 with a strong focus on building modern, efficient, and user-friendly web applications 🌐. I have a solid foundation in frontend technologies like HTML, CSS, and JavaScript 🎨, along with growing expertise in backend development using Node.js ⚙️ and database management with MySQL 🗄️.<br><br>I enjoy turning ideas into real-world solutions 💡 and continuously work on improving my problem-solving skills and code quality 🧠. My approach is centered around writing clean, scalable, and maintainable code ✨ while staying updated with the latest industry trends and tools 📈.<br><br>On my GitHub, I showcase projects that reflect my learning journey 📂, practical implementations, and passion for development ❤️. I’m always exploring new technologies 🔍, contributing to meaningful projects 🤝, and aiming to evolve into a skilled full stack developer capable of building impactful digital products 🚀.</p>
+<p align="left">I’m Ayaan, Full-Stack Developer specializing in building scalable, production-grade web applications using React.js, Node.js, and TypeScript.
+I have hands-on industry experience developing REST APIs, real-time systems with Socket.IO, and managing data across relational and NoSQL databases (MySQL, PostgreSQL, MongoDB). My recent work includes shipping full-stack features in a live production environment, as well as independently building AI-integrated applications — including a real-time conversational chatbot and an automated ATS resume-scoring engine.
+I am committed to writing clean, maintainable code and continuously expanding my expertise across the full development lifecycle, with the goal of growing into a well-rounded full-stack engineer capable of delivering impactful, real-world software solutions.</p>
 
 ###
 
