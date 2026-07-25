@@ -63,7 +63,7 @@
   <a href="https://www.instagram.com/ayaanbitstream/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
-  <a href="https://x.com/ayaanbitstream" target="_blank">
+  <a href="https://x.com/ayaandotcom" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
   </a>
   <a href="https://www.facebook.com/share/18cJdeTk3D/" target="_blank">
