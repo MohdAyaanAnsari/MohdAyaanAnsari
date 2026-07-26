@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mohd Ayaan Ansari | Software Developer | MySQL · MongoDB · Express.js · React.js · Node.js</p>
+<p align="left">I enjoy turning ideas into products and problems into learning opportunities.</p>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<p align="left">I’m Ayaan, Full-Stack Developer specializing in building scalable, production-grade web applications using React.js, Node.js, and TypeScript.
+<p align="left">I’m Ayaan, Software Developer specializing in building scalable, production-grade web applications using React.js, Node.js, and TypeScript.
 I have hands-on industry experience developing REST APIs, real-time systems with Socket.IO, and managing data across relational and NoSQL databases (MySQL, PostgreSQL, MongoDB). My recent work includes shipping full-stack features in a live production environment, as well as independently building AI-integrated applications — including a real-time conversational chatbot and an automated ATS resume-scoring engine.
 I am committed to writing clean, maintainable code and continuously expanding my expertise across the full development lifecycle, with the goal of growing into a well-rounded full-stack engineer capable of delivering impactful, real-world software solutions.</p>
 
