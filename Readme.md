@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">I enjoy turning ideas into products and problems into learning opportunities.</p>
-
+<p align="left">Mohd Ayaan Ansari | Software Developer | MySQL · MongoDB · Express.js · React.js · Node.js</p>
 ###
 
 <h2 align="left">Developing with</h2>
