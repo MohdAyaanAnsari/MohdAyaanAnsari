@@ -48,7 +48,7 @@
 
 ###
 
-<div align="left" style="white-space: nowrap; display:flex; gap:10px;">
+<div align="left" style="white-space: nowrap;">
   <a href="https://www.linkedin.com/in/mohdayaanansari" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
   </a>
