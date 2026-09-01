@@ -6,17 +6,30 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-<table align="center">
-  <tr>
-    <td align="left" width="100%">
-      I’m <b>Ayaan</b>, a Full-Stack Software Developer specializing in building scalable, production-grade web applications using <b>React, Next.js, Node.js, and TypeScript</b>. 
-      <br><br>
-      ⚡ I have hands-on industry experience developing REST APIs, real-time systems with Socket.IO, and managing data across SQL & NoSQL databases. My recent work includes shipping live production features and building AI-integrated applications (like real-time chatbots and ATS resume analyzers).
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="background: #1e1e2e; padding: 24px; border-radius: 12px; border: 1px solid #313244;">
+        <p align="left" style="font-family: 'Poppins', sans-serif; color: #cdd6f4; font-size: 15px; line-height: 1.6; margin: 0;">
+          I am <b style="color: #38bdf8;">Ayaan</b>, a Full-Stack Software Developer specializing in building scalable, production-grade web applications with <b>React</b>, <b>Next.js</b>, <b>Node.js</b>, and <b>TypeScript</b>.
+        </p>
+        <br />
+        <p align="left" style="font-family: 'Poppins', sans-serif; color: #a6adc8; font-size: 14px; line-height: 1.6; margin: 0;">
+          Hands-on industry experience engineering REST APIs, real-time architectures via Socket.IO, and managing structured data across SQL and NoSQL systems. Experienced in shipping live features to production and integrating AI capabilities into applications, including automated ATS resume scoring engines and real-time conversational agents.
+        </p>
+        <br />
+        <div align="left">
+          <code style="background: #313244; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-size: 12px;">Full-Stack Development</code>
+          <code style="background: #313244; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-size: 12px;">Real-Time Systems</code>
+          <code style="background: #313244; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-size: 12px;">AI Integrated Applications</code>
+          <code style="background: #313244; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-size: 12px;">Database Architecture</code>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
