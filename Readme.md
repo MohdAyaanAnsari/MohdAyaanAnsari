@@ -28,7 +28,7 @@
 
 ###  Tech Stack & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,bun,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,bootstrap,html,css&perline=8" alt="Skill Icons" />
 </p>
 
@@ -74,7 +74,7 @@
 
 ### Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mohdayaanansari" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
