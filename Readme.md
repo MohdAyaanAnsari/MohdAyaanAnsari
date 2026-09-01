@@ -44,7 +44,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAyaanAnsari&radius=16&theme=tokyonight&area=true&hide_border=true&custom_background_color=1e1e2e" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/1e1e2e/MohdAyaanAnsari" alt="Ayaan's Contribution Chart" width="100%" />
 </div>
 
 ---
