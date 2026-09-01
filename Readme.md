@@ -43,19 +43,16 @@
 
 ### Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mohdayaanansari" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  &nbsp;
   <a href="https://x.com/ayaandotcom" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" />
   </a>
-  &nbsp;
   <a href="https://mailto:ayaan.devmail@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/ayaanbitstream/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
