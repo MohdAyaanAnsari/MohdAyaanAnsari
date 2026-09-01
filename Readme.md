@@ -1,88 +1,72 @@
-<h1 align="left">Hi I'm Ayaan</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+I'm+Ayaan+👋;Software+Developer;Full-Stack+Engineer;Building+Scalable+Apps" alt="Typing SVG" />
+</h1>
 
-###
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=94A3B8&center=true&vCenter=true&width=350&lines=Figuring+things+out,+one+commit+at+a+time.;Crafting+modern+web+experiences." alt="Typing Subtitle"></a>
+</p>
 
-<p align="left">Software Developer | Figuring things out</p>
+---
 
-<h2 align="left">Developing with</h2>
+### 🚀 About Me
 
-###
+<table align="center">
+  <tr>
+    <td align="left" width="100%">
+      I’m <b>Ayaan</b>, a Full-Stack Software Developer specializing in building scalable, production-grade web applications using <b>React, Next.js, Node.js, and TypeScript</b>. 
+      <br><br>
+      ⚡ I have hands-on industry experience developing REST APIs, real-time systems with Socket.IO, and managing data across SQL & NoSQL databases. My recent work includes shipping live production features and building AI-integrated applications (like real-time chatbots and ATS resume analyzers).
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack & Tools
 
-<h2 align="left">Lets connect</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,canva,html,css&perline=8" alt="Skill Icons" />
+</p>
 
-###
+---
 
-<div align="left" style="white-space: nowrap;">
-  <a href="https://www.linkedin.com/in/mohdayaanansari" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
-  </a>
-  <a href="mailto:ayaan.devmail@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" />
-  </a>
-  <a href="https://t.me/x_4y4n" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.instagram.com/ayaanbitstream/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" />
-  </a>
-  <a href="https://x.com/ayaandotcom" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.facebook.com/share/18cJdeTk3D/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" />
-  </a>
-</div>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohdAyaanAnsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Ayaan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAyaanAnsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="48%" />
+</p>
 
-<h2 align="left">Who I Am</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAyaanAnsari&theme=tokyonight&hide_border=true&background=1e1e2e&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</p>
 
-###
+---
 
-<p align="left">I’m Ayaan, Software Developer specializing in building scalable, production-grade web applications using React.js, Node.js, and TypeScript.
-I have hands-on industry experience developing REST APIs, real-time systems with Socket.IO, and managing data across relational and NoSQL databases (MySQL, PostgreSQL, MongoDB). My recent work includes shipping full-stack features in a live production environment, as well as independently building AI-integrated applications — including a real-time conversational chatbot and an automated ATS resume-scoring engine.
-I am committed to writing clean, maintainable code and continuously expanding my expertise across the full development lifecycle, with the goal of growing into a well-rounded full-stack engineer capable of delivering impactful, real-world software solutions.</p>
-
-###
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAyaanAnsari&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAyaanAnsari&radius=16&theme=tokyonight&area=true&hide_border=true&custom_background_color=1e1e2e" alt="Activity Graph" width="100%" />
 </div>
 
-###
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohdayaanansari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ayaandotcom" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="mailto:ayaan.devmail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/x_4y4n" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ayaanbitstream/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
