@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,canva,html,css&perline=8" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,Canva,html,css&perline=8" alt="Skill Icons" />
 </p>
 
 ---
