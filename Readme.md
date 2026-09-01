@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohdAyaanAnsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Ayaan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAyaanAnsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MohdAyaanAnsari&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Ayaan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohdAyaanAnsari&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=38BDF8&text_color=94A3B8&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
