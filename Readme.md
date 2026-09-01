@@ -13,19 +13,12 @@
     <tr>
       <td style="background: #1e1e2e; padding: 24px; border-radius: 12px; border: 1px solid #313244;">
         <p align="left" style="font-family: 'Poppins', sans-serif; color: #cdd6f4; font-size: 15px; line-height: 1.6; margin: 0;">
-          I am <b style="color: #38bdf8;">Ayaan</b>, a Full-Stack Software Developer specializing in building scalable, production-grade web applications with <b>React</b>, <b>Next.js</b>, <b>Node.js</b>, and <b>TypeScript</b>.
+          I am <b style="color: #38bdf8;">Ayaan</b>, a Software Developer specializing in building scalable, production-grade web applications with <b>React</b>, <b>Node.js</b>, and <b>TypeScript</b>.
         </p>
         <br />
         <p align="left" style="font-family: 'Poppins', sans-serif; color: #a6adc8; font-size: 14px; line-height: 1.6; margin: 0;">
-          Hands-on industry experience engineering REST APIs, real-time architectures via Socket.IO, and managing structured data across SQL and NoSQL systems. Experienced in shipping live features to production and integrating AI capabilities into applications, including automated ATS resume scoring engines and real-time conversational agents.
+          Hands-on industry experience developing REST APIs, real-time architectures via Socket.IO, and managing structured data across SQL and NoSQL systems. Experienced in shipping live features to production and integrating AI capabilities into applications, including automated ATS resume scoring engines and real-time conversational agents.
         </p>
-        <br />
-        <div align="left">
-          <code style="background: #313244; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-size: 12px;">Full-Stack Development</code>
-          <code style="background: #313244; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-size: 12px;">Real-Time Systems</code>
-          <code style="background: #313244; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-size: 12px;">AI Integrated Applications</code>
-          <code style="background: #313244; color: #38bdf8; padding: 4px 10px; border-radius: 6px; font-size: 12px;">Database Architecture</code>
-        </div>
       </td>
     </tr>
   </table>
@@ -33,15 +26,15 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,cursor,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,bootstrap,html,css&perline=8" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,bun,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,bootstrap,html,css&perline=8" alt="Skill Icons" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MohdAyaanAnsari&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Ayaan's GitHub Stats" width="48%" />
@@ -54,30 +47,51 @@
 
 ---
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/1e1e2e/MohdAyaanAnsari" alt="Ayaan's Contribution Chart" width="100%" />
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="background: #1e1e2e; padding: 16px 24px; border-radius: 12px; border: 1px solid #313244;">
+        <img src="https://img.shields.io/github/followers/MohdAyaanAnsari?style=for-the-badge&logo=github&logoColor=white&color=38bdf8&labelColor=11111b" />
+        &nbsp;
+        <img src="https://img.shields.io/github/stars/MohdAyaanAnsari?style=for-the-badge&logo=github&logoColor=white&color=38bdf8&labelColor=11111b" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Status-Building_Full_Stack-38bdf8?style=for-the-badge&logo=git&logoColor=white&labelColor=11111b" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/MohdAyaanAnsari" alt="Ayaan's Contribution Heatmap" width="100%" />
+</div>
+
+
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohdayaanansari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
+  &nbsp;
   <a href="https://x.com/ayaandotcom" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" />
   </a>
+  &nbsp;
   <a href="mailto:ayaan.devmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
+  &nbsp;
   <a href="https://t.me/x_4y4n" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Telegram" height="40" width="40" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/ayaanbitstream/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
 </p>
