@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=I+am+Ayaan;Software+Developer;Building+full+stack+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=238636&center=true&vCenter=true&width=600&lines=I+am+Ayaan;Software+Developer;Building+full+stack+applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,12 +11,12 @@
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td style="background: #1e1e2e; padding: 24px; border-radius: 12px; border: 1px solid #313244;">
-        <p align="left" style="font-family: 'Poppins', sans-serif; color: #cdd6f4; font-size: 15px; line-height: 1.6; margin: 0;">
-          I am <b style="color: #38bdf8;">Ayaan</b>, a Software Developer specializing in building scalable, production-grade web applications with <b>React</b>, <b>Node.js</b>, and <b>TypeScript</b>.
+      <td style="background: #0d1117; padding: 24px; border-radius: 12px; border: 1px solid #30363d;">
+        <p align="left" style="color: #c9d1d9; font-size: 15px; line-height: 1.6; margin: 0;">
+          I am <b style="color: #3fb950;">Ayaan</b>, a Software Developer specializing in building scalable, production-grade web applications with <b>React</b>, <b>Node.js</b>, and <b>TypeScript</b>.
         </p>
         <br />
-        <p align="left" style="font-family: 'Poppins', sans-serif; color: #a6adc8; font-size: 14px; line-height: 1.6; margin: 0;">
+        <p align="left" style="color: #8b949e; font-size: 14px; line-height: 1.6; margin: 0;">
           Hands-on industry experience developing REST APIs, real-time architectures via Socket.IO, and managing structured data across SQL and NoSQL systems. Experienced in shipping live features to production and integrating AI capabilities into applications, including automated ATS resume scoring engines and real-time conversational agents.
         </p>
       </td>
@@ -26,7 +26,7 @@
 
 ---
 
-###  Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,bun,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,bootstrap,html,css&perline=8" alt="Skill Icons" />
@@ -37,38 +37,30 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MohdAyaanAnsari&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Ayaan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohdAyaanAnsari&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=38BDF8&text_color=94A3B8&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MohdAyaanAnsari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e" alt="Ayaan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohdAyaanAnsari&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAyaanAnsari&theme=tokyonight&hide_border=true&background=1e1e2e&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAyaanAnsari&hide_border=true&background=0d1117&ring=238636&fire=3fb950&currStreakLabel=3fb950&sidelabels=8b949e&dates=8b949e&currStreakNum=3fb950" alt="GitHub Streak" />
 </p>
 
 ---
 
-###  Contribution Graph
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td style="background: #1e1e2e; padding: 16px 24px; border-radius: 12px; border: 1px solid #313244;">
-        <img src="https://img.shields.io/github/followers/MohdAyaanAnsari?style=for-the-badge&logo=github&logoColor=white&color=38bdf8&labelColor=11111b" />
+      <td style="background: #0d1117; padding: 16px 24px; border-radius: 12px; border: 1px solid #30363d;">
+        <img src="https://img.shields.io/github/followers/MohdAyaanAnsari?style=for-the-badge&logo=github&logoColor=white&color=238636&labelColor=161b22" />
         &nbsp;
-        <img src="https://img.shields.io/github/stars/MohdAyaanAnsari?style=for-the-badge&logo=github&logoColor=white&color=38bdf8&labelColor=11111b" />
+        <img src="https://img.shields.io/github/stars/MohdAyaanAnsari?style=for-the-badge&logo=github&logoColor=white&color=238636&labelColor=161b22" />
         &nbsp;
-        <img src="https://img.shields.io/badge/Status-Building_Full_Stack-38bdf8?style=for-the-badge&logo=git&logoColor=white&labelColor=11111b" />
+        <img src="https://img.shields.io/badge/Status-Building_Full_Stack-238636?style=for-the-badge&logo=git&logoColor=white&labelColor=161b22" />
       </td>
     </tr>
   </table>
 </div>
-
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/MohdAyaanAnsari" alt="Ayaan's Contribution Heatmap" width="100%" />
-</div>
-
-
 
 ---
 
