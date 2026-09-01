@@ -1,9 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+I'm+Ayaan+👋;Software+Developer;Full-Stack+Engineer;Building+Scalable+Apps" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=94A3B8&center=true&vCenter=true&width=350&lines=Figuring+things+out,+one+commit+at+a+time.;Crafting+modern+web+experiences." alt="Typing Subtitle"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=I+am+Ayaan;Software+Developer;Building+full+stack+applications" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
