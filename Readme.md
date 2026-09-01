@@ -12,21 +12,9 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,bun,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,bootstrap,html,css&perline=8" alt="Skill Icons" />
 </p>
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="background: #0d1117; padding: 24px; border-radius: 12px; border: 1px solid #30363d;">
-        <p align="left" style="color: #c9d1d9; font-size: 15px; line-height: 1.6; margin: 0;">
-          I am <b style="color: #3fb950;">Ayaan</b>, a Software Developer specializing in building scalable, production-grade web applications with <b>React</b>, <b>Node.js</b>, and <b>TypeScript</b>.
-        </p>
-        <br />
-        <p align="left" style="color: #8b949e; font-size: 14px; line-height: 1.6; margin: 0;">
-          Hands-on industry experience developing REST APIs, real-time architectures via Socket.IO, and managing structured data across SQL and NoSQL systems. Experienced in shipping live features to production and integrating AI capabilities into applications, including automated ATS resume scoring engines and real-time conversational agents.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./assets/about-card.svg" width="100%" alt="About Me" />
+</p>
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
