@@ -52,12 +52,8 @@
     <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" />
   </a>
   &nbsp;
-  <a href="mailto:ayaan.devmail@gmail.com" target="_blank">
+  <a href="https://mailto:ayaan.devmail@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/x_4y4n" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Telegram" height="40" width="40" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/ayaanbitstream/" target="_blank">
