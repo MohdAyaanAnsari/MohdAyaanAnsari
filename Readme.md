@@ -6,7 +6,11 @@
 
 ---
 
-### About Me
+### Building with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,bun,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,bootstrap,html,css&perline=8" alt="Skill Icons" />
+</p>
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
@@ -24,30 +28,6 @@
   </table>
 </div>
 
----
-
-### Tech Stack & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,bun,nodejs,express,mongodb,mysql,postgresql,tailwind,git,github,vscode,bootstrap,html,css&perline=8" alt="Skill Icons" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MohdAyaanAnsari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e" alt="Ayaan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohdAyaanAnsari&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAyaanAnsari&hide_border=true&background=0d1117&ring=238636&fire=3fb950&currStreakLabel=3fb950&currStreakNum=3fb950&sideNums=3fb950&sideLabels=3fb950&dates=c9d1d9" alt="GitHub Streak" />
-</p>
-
----
-
-
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
@@ -61,6 +41,15 @@
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=MohdAyaanAnsari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e" alt="Ayaan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohdAyaanAnsari&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=6" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAyaanAnsari&hide_border=true&background=0d1117&ring=238636&fire=3fb950&currStreakLabel=3fb950&currStreakNum=3fb950&sideNums=3fb950&sideLabels=3fb950&dates=c9d1d9" alt="GitHub Streak" />
+</p>
 
 ---
 
